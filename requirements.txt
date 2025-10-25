@@ -1,0 +1,17 @@
+# Web Framework & Server
+fastapi
+uvicorn[standard]
+
+# Machine Learning (Model Training/Persistence)
+scikit-learn
+joblib
+
+# Data Handling (Essential for ML APIs)
+pydantic
+numpy
+pandas
+
+# Configuration (Good Practice)
+python-dotenv
+
+python-multipart  # <-- Add this line for form/file handling
